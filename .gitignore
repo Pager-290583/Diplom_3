@@ -1,2 +1,8 @@
 .venv
 .idea
+.DS_Store
+locators/__pycache__/
+pages/__pycache__/
+test/.DS_Store
+test/__pycache__/
+test_date/__pycache__/
